@@ -43,8 +43,10 @@ The Diabetes Help project aims to provide comprehensive information, resources, 
 
 ### Contributing
 
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to improve this project. Please follow the guidelines mentioned in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to improve this project.
+
+## Credits
+Developed by Protyay Dey. Inspired by the classic game of Connect 4.
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
